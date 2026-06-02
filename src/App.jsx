@@ -143,7 +143,7 @@ function App() {
       <header className="manual-navbar">
         <div className="nav-brand">
           <div className="brand-logo-container">
-            <img src="/images/mogi_logo.png" alt="Mogi Logo" className="brand-logo-img" />
+            <img src="images/mogi_logo.png" alt="Mogi Logo" className="brand-logo-img" />
           </div>
           <div>
             <h1>Mogi Assistant</h1>
@@ -154,7 +154,7 @@ function App() {
           <a href="https://github.com/Skywalk3rcode/mogi_new.git" target="_blank" rel="noreferrer" className="github-nav-btn">
             <GitHubIcon /> GitHub Repo
           </a>
-          <a href="/Formato_Proyecto_Ingenieria_de_Software.pdf" download="Formato_Proyecto_Ingenieria_de_Software.pdf" className="download-pdf-nav-btn">
+          <a href="Formato_Proyecto_Ingenieria_de_Software.pdf" download="Formato_Proyecto_Ingenieria_de_Software.pdf" className="download-pdf-nav-btn">
             <DownloadIcon /> Descargar Formato (PDF)
           </a>
         </div>
@@ -207,7 +207,7 @@ function App() {
                 <h3>Documentación Oficial del Proyecto</h3>
                 <p>Descarga la propuesta, especificación de requisitos y diseño de software en formato PDF listo para impresión:</p>
               </div>
-              <a href="/Formato_Proyecto_Ingenieria_de_Software.pdf" download="Formato_Proyecto_Ingenieria_de_Software.pdf" className="download-large-btn">
+              <a href="Formato_Proyecto_Ingenieria_de_Software.pdf" download="Formato_Proyecto_Ingenieria_de_Software.pdf" className="download-large-btn">
                 <DownloadIcon /> Descargar Formato Proyecto (PDF)
               </a>
             </div>
@@ -265,7 +265,7 @@ function App() {
             <p className="lead-paragraph">La interfaz de Mogi está desarrollada en React bajo principios de diseño receptivo y de baja fatiga visual.</p>
 
             <div className="screenshot-box">
-              <img src="/images/mogi_screenshot.png" alt="Mogi Interfaz de Usuario" className="app-img" />
+              <img src="images/mogi_screenshot.png" alt="Mogi Interfaz de Usuario" className="app-img" />
             </div>
 
             <h3>Componentes e Interacción</h3>
@@ -417,7 +417,7 @@ npm start`}</code></pre>
             <div className="creators-grid">
               <div className="creator-card">
                 <div className="creator-avatar-box">
-                  <img src="/images/author_pedro.jpg" alt="Pedro Juan Mendoza Ovallos" />
+                  <img src="images/author_pedro.jpg" alt="Pedro Juan Mendoza Ovallos" />
                 </div>
                 <h3>Pedro Juan Mendoza Ovallos</h3>
                 <span className="role-badge">Co-Creador y Front-End/IA Dev</span>
@@ -426,7 +426,7 @@ npm start`}</code></pre>
 
               <div className="creator-card">
                 <div className="creator-avatar-box">
-                  <img src="/images/author_miguel.jpg" alt="Miguel Ángel Ramírez Corredor" />
+                  <img src="images/author_miguel.jpg" alt="Miguel Ángel Ramírez Corredor" />
                 </div>
                 <h3>Miguel Ángel Ramírez Corredor</h3>
                 <span className="role-badge">Co-Creador y Back-End/DB Dev</span>
